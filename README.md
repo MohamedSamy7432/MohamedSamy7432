@@ -31,6 +31,7 @@
 ---
 
 I'm a Penetration Tester and Red Team Operator with a solid background in cybersecurity. I hold a Bachelor's degree in Computer Science and specialize in identifying and ethically exploiting security vulnerabilities in systems, networks, and applications.
+
 I have completed hands-on cybersecurity internships and training programs with Instant Company, Sprints, NTI,NovaDeV where I gained practical experience in offensive security, vulnerability assessment, and real-world attack simulations. Additionally, I actively participate in Capture The Flag (CTF) competitions, where I continuously sharpen my skills in areas such as binary exploitation, web application security, and network attacks.
 
 
