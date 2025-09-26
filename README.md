@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Sami  
+# Hi, I'm Mohamed Samy
 
 <div align="right">  
   <a href="https://your-donation-link.com">  
@@ -21,6 +21,10 @@
   &nbsp;&nbsp;  
   <a href="https://www.facebook.com/share/1D2vmKRscy/?mibextid=wwXIfr" target="_blank">  
     <img src="https://img.shields.io/badge/Facebook-000000?logo=facebook&logoColor=white&style=flat" alt="Facebook" />  
+  </a>  
+  &nbsp;&nbsp;  
+  <a href="mailto:mohamedsamy788994@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=flat" alt="Email" />  
   </a>  
 </p>  
 
@@ -46,11 +50,20 @@ I've trained and interned at:
 
 ---
 
-### 🧠 My Interests & Focus  
+### 🧠 TECHNICAL SKILLS
+- **Cybersecurity:** Penetration testing, Ethical Hacking  
+- **Programming Languages:** Python, C++  
+- **Operating Systems:** Windows, Linux  
+- **Version Control:** Git  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Software & Tools:** Wireshark, Metasploit, Burp Suite
+
+---
+
+### 🔎 Interests & Focus  
 - Red Team Operations  
 - Web, Network, and Wireless Penetration Testing  
 - Social Engineering Attacks  
-- Python & Bash for automation  
 - Capture The Flag (CTF) Competitions  
 - Certifications: OSCP, CRTP (in progress)  
 
@@ -60,7 +73,6 @@ I've trained and interned at:
 - [🔓 OWASP Top 10 Web Vulnerabilities](https://owasp.org/www-project-top-ten/)  
 - [🎯 OSINT for Bug Bounty Hunters](https://learn.suvendudash.com/osint-for-bug-bounty-hunters/)  
 
----
 
-### 🔐 Let's Connect & Collaborate  
-If you're passionate about offensive security or working on Red Teaming projects — feel free to reach out!
+
+
